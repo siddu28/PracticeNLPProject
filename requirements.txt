@@ -1,0 +1,10 @@
+transformers
+transformers[sentencepiece]
+datasets
+pandas
+nltk
+matplotlib
+torch
+fastapi
+uvicorn
+Jinja2

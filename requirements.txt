@@ -8,3 +8,5 @@ torch
 fastapi
 uvicorn
 Jinja2
+python-box
+ensure
